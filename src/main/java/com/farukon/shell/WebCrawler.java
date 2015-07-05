@@ -1,10 +1,5 @@
 package com.farukon.shell;
 
-import com.farukon.resource.model.Resource;
-import org.apache.commons.cli.*;
-import org.springframework.http.ResponseEntity;
-import org.springframework.web.client.RestTemplate;
-
 /**
  * Created by jamesyan on 7/5/15.
  */
@@ -29,7 +24,5 @@ public class WebCrawler {
 //        ResponseEntity<Resource> entity =
 //                template.getForEntity("http://localhost:8080/resources/5598bd440364f781e5c2d3d9", Resource.class);
 //        System.out.println(entity.getBody().getTitle());
-
-
     }
 }
