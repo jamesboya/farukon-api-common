@@ -5,9 +5,9 @@
     <groupId>com.farukon</groupId>
     <artifactId>api-common</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>pom</packaging>
+    <packaging>jar</packaging>
 
-    <name>farukon-common</name>
+    <name>farukon-api-common</name>
     <description>Demo project for Spring Boot</description>
 
     <parent>
